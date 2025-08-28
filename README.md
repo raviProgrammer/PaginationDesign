@@ -39,3 +39,16 @@ A Java-based Spring MVC example demonstrating CRUD (Create, Read, Update, Delete
 ## Contributing
 * Feel free to fork and submit pull requests.
 * Suggestions: improve UI, use Spring Boot, add sorting/filtering, or integrate with REST.
+
+## **Output Screenshort**
+### Home Page
+![Home Page](images/homePage.PNG)
+
+### Records with Pagination
+![Pagination Example](images/AllData.PNG)
+
+### Add Record
+![Form Page](images/save.PNG)
+
+### Update Record
+![Form Page](images/updateData.PNG)
